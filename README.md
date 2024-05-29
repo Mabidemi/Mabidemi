@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mabidemi
 - 👀 I’m interested in Data Science 
+-  👩‍💻 I'm a recruiter.
 - 🌱 I’m new to tech.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on recruitment and outsourcing.
 - 📫 How to reach me ...
 
 <!---
